@@ -1,0 +1,1 @@
+BSM and Heston options research: pricing, IV calibration, Greeks, model-risk comparisons, strategy payoff analysis and P&L attribution. Education and research only.
